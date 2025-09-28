@@ -15,11 +15,12 @@ This project is a single-page, interactive **AI/ML Student Roadmap** designed to
 
 ## 🖼️ Live Demo & Screenshot
 
-**Live Site:** [**INSERT YOUR GITHUB PAGES LINK HERE**]
+**Live Site:** [https://hugarabhi.github.io/ROADMAP/]
 
 **Screenshot:**
 
-![Insert a high-quality screenshot or GIF of your live roadmap here]
+<img width="1582" height="971" alt="image" src="https://github.com/user-attachments/assets/26b6dd47-31c0-4c04-8074-486ca2d35c87" />
+
 
 ## 🛠️ Technology Stack
 
@@ -46,7 +47,7 @@ To elevate this project from a personal guide to a professional portfolio asset,
 
 ## 👨‍💻 Developer & Attribution
 
-This roadmap was designed and developed by **[Your Name/Avinash Hugar]**.
+This roadmap was designed and developed by **[Avinash Hugar]**.
 
 Connect with me:
 
